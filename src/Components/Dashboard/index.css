@@ -1,0 +1,30 @@
+.app{
+    background-color: lightblue;
+    width:100%;
+    position: absolute;
+    margin:10px;
+
+}
+.form{
+
+    position: absolute;
+    width:50%;
+    float:left;
+    padding:10px;
+    top:30%;
+
+
+}
+.form input{
+    width:100%;
+    padding:10px;
+    margin:5px;
+
+}
+
+.piechart {
+    
+    width:50%;
+    float:right;
+    
+}
